@@ -2,6 +2,7 @@
 Using Spotipy and Streamlit
 
 DOCUMENTATION
+
 Spotipy: https://spotipy.readthedocs.io/en/2.24.0/
 
 Spotify documentation: https://developer.spotify.com/documentation/web-api
